@@ -1,0 +1,181 @@
+2022-03-14 18:51:48,562 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 18:51:49,469 [main] INFO ebanking - Entered User Name
+2022-03-14 18:51:49,594 [main] INFO ebanking - Entered Password
+2022-03-14 18:51:50,518 [main] INFO ebanking - Login test passed
+2022-03-14 18:51:56,917 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 18:51:58,193 [main] INFO ebanking - user name provided
+2022-03-14 18:51:58,281 [main] INFO ebanking - password provided
+2022-03-14 18:52:02,266 [main] INFO ebanking - Login passed
+2022-03-14 18:52:06,537 [main] INFO ebanking - user name provided
+2022-03-14 18:52:07,340 [main] INFO ebanking - password provided
+2022-03-14 18:52:12,246 [main] INFO ebanking - user name provided
+2022-03-14 18:52:12,454 [main] INFO ebanking - password provided
+2022-03-14 18:52:17,349 [main] INFO ebanking - user name provided
+2022-03-14 18:52:17,438 [main] INFO ebanking - password provided
+2022-03-14 18:52:21,298 [main] INFO ebanking - Login passed
+2022-03-14 18:52:26,052 [main] INFO ebanking - user name provided
+2022-03-14 18:52:26,141 [main] INFO ebanking - password provided
+2022-03-14 18:52:37,246 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 18:52:37,394 [main] INFO ebanking - Entered Username
+2022-03-14 18:52:37,506 [main] INFO ebanking - Entered Password
+2022-03-14 18:52:41,591 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 18:52:58,008 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 18:52:58,008 [main] INFO ebanking - Validation started.....
+2022-03-14 18:52:58,039 [main] INFO ebanking - Customer Added Successfully
+2022-03-14 20:54:29,234 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:54:29,688 [main] INFO ebanking - Entered User Name
+2022-03-14 20:54:29,812 [main] INFO ebanking - Entered Password
+2022-03-14 20:54:31,115 [main] INFO ebanking - Login test passed
+2022-03-14 20:54:37,927 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:54:39,287 [main] INFO ebanking - user name provided
+2022-03-14 20:54:39,391 [main] INFO ebanking - password provided
+2022-03-14 20:54:43,372 [main] INFO ebanking - Login passed
+2022-03-14 20:54:48,401 [main] INFO ebanking - user name provided
+2022-03-14 20:54:48,494 [main] INFO ebanking - password provided
+2022-03-14 20:54:53,015 [main] INFO ebanking - user name provided
+2022-03-14 20:54:53,096 [main] INFO ebanking - password provided
+2022-03-14 20:54:57,691 [main] INFO ebanking - user name provided
+2022-03-14 20:54:57,809 [main] INFO ebanking - password provided
+2022-03-14 20:55:01,759 [main] INFO ebanking - Login passed
+2022-03-14 20:55:06,254 [main] INFO ebanking - user name provided
+2022-03-14 20:55:07,064 [main] INFO ebanking - password provided
+2022-03-14 20:55:17,638 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:55:17,811 [main] INFO ebanking - Entered Username
+2022-03-14 20:55:18,017 [main] INFO ebanking - Entered Password
+2022-03-14 20:55:22,176 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 20:55:48,470 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 20:55:48,471 [main] INFO ebanking - Validation started.....
+2022-03-14 20:55:48,505 [main] INFO ebanking - Customer Added Successfully
+2022-03-14 20:59:01,083 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:59:01,258 [main] INFO ebanking - Entered User Name
+2022-03-14 20:59:01,436 [main] INFO ebanking - Entered Password
+2022-03-14 20:59:02,357 [main] INFO ebanking - Login test passed
+2022-03-14 20:59:09,098 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:59:09,944 [main] INFO ebanking - user name provided
+2022-03-14 20:59:10,051 [main] INFO ebanking - password provided
+2022-03-14 20:59:14,246 [main] INFO ebanking - Login passed
+2022-03-14 20:59:18,733 [main] INFO ebanking - user name provided
+2022-03-14 20:59:19,056 [main] INFO ebanking - password provided
+2022-03-14 20:59:23,480 [main] INFO ebanking - user name provided
+2022-03-14 20:59:23,601 [main] INFO ebanking - password provided
+2022-03-14 20:59:27,735 [main] INFO ebanking - user name provided
+2022-03-14 20:59:28,066 [main] INFO ebanking - password provided
+2022-03-14 20:59:31,785 [main] INFO ebanking - Login passed
+2022-03-14 20:59:36,454 [main] INFO ebanking - user name provided
+2022-03-14 20:59:36,542 [main] INFO ebanking - password provided
+2022-03-14 20:59:46,647 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 20:59:46,783 [main] INFO ebanking - Entered Username
+2022-03-14 20:59:46,979 [main] INFO ebanking - Entered Password
+2022-03-14 20:59:51,012 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 21:01:44,208 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:01:44,376 [main] INFO ebanking - Entered User Name
+2022-03-14 21:01:44,484 [main] INFO ebanking - Entered Password
+2022-03-14 21:01:45,333 [main] INFO ebanking - Login test passed
+2022-03-14 21:01:51,781 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:01:52,933 [main] INFO ebanking - user name provided
+2022-03-14 21:01:53,048 [main] INFO ebanking - password provided
+2022-03-14 21:01:57,016 [main] INFO ebanking - Login passed
+2022-03-14 21:02:01,740 [main] INFO ebanking - user name provided
+2022-03-14 21:02:01,888 [main] INFO ebanking - password provided
+2022-03-14 21:03:31,488 [main] INFO ebanking - user name provided
+2022-03-14 21:03:59,909 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:04:00,283 [main] INFO ebanking - Entered User Name
+2022-03-14 21:04:00,524 [main] INFO ebanking - Entered Password
+2022-03-14 21:04:01,391 [main] INFO ebanking - Login test passed
+2022-03-14 21:04:08,705 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:04:09,787 [main] INFO ebanking - user name provided
+2022-03-14 21:04:09,923 [main] INFO ebanking - password provided
+2022-03-14 21:04:13,846 [main] INFO ebanking - Login passed
+2022-03-14 21:04:18,763 [main] INFO ebanking - user name provided
+2022-03-14 21:04:18,930 [main] INFO ebanking - password provided
+2022-03-14 21:04:23,535 [main] INFO ebanking - user name provided
+2022-03-14 21:04:23,637 [main] INFO ebanking - password provided
+2022-03-14 21:04:28,453 [main] INFO ebanking - user name provided
+2022-03-14 21:04:28,571 [main] INFO ebanking - password provided
+2022-03-14 21:04:32,497 [main] INFO ebanking - Login passed
+2022-03-14 21:04:37,349 [main] INFO ebanking - user name provided
+2022-03-14 21:04:37,459 [main] INFO ebanking - password provided
+2022-03-14 21:04:48,322 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:04:48,523 [main] INFO ebanking - Entered Username
+2022-03-14 21:04:48,726 [main] INFO ebanking - Entered Password
+2022-03-14 21:04:52,804 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 21:09:34,764 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:09:34,926 [main] INFO ebanking - Entered User Name
+2022-03-14 21:09:35,155 [main] INFO ebanking - Entered Password
+2022-03-14 21:09:36,286 [main] INFO ebanking - Login test passed
+2022-03-14 21:09:44,173 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:09:45,226 [main] INFO ebanking - user name provided
+2022-03-14 21:09:45,396 [main] INFO ebanking - password provided
+2022-03-14 21:09:49,182 [main] INFO ebanking - Login passed
+2022-03-14 21:09:54,072 [main] INFO ebanking - user name provided
+2022-03-14 21:09:54,164 [main] INFO ebanking - password provided
+2022-03-14 21:10:36,388 [main] INFO ebanking - Login passed
+2022-03-14 21:11:06,617 [main] INFO ebanking - user name provided
+2022-03-14 21:11:06,707 [main] INFO ebanking - password provided
+2022-03-14 21:11:11,373 [main] INFO ebanking - user name provided
+2022-03-14 21:11:11,695 [main] INFO ebanking - password provided
+2022-03-14 21:11:15,500 [main] INFO ebanking - Login passed
+2022-03-14 21:11:19,861 [main] INFO ebanking - user name provided
+2022-03-14 21:11:20,614 [main] INFO ebanking - password provided
+2022-03-14 21:11:32,147 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:11:32,282 [main] INFO ebanking - Entered Username
+2022-03-14 21:11:32,406 [main] INFO ebanking - Entered Password
+2022-03-14 21:11:36,575 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 21:36:05,724 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:36:05,900 [main] INFO ebanking - Entered User Name
+2022-03-14 21:36:06,007 [main] INFO ebanking - Entered Password
+2022-03-14 21:36:07,126 [main] INFO ebanking - Login test passed
+2022-03-14 21:36:13,964 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:36:14,089 [main] INFO ebanking - Entered Username
+2022-03-14 21:36:14,403 [main] INFO ebanking - Entered Password
+2022-03-14 21:36:18,431 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 21:40:43,509 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:40:43,819 [main] INFO ebanking - Entered User Name
+2022-03-14 21:40:44,367 [main] INFO ebanking - Entered Password
+2022-03-14 21:40:45,194 [main] INFO ebanking - Login test passed
+2022-03-14 21:40:52,249 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 21:40:52,408 [main] INFO ebanking - Entered Username
+2022-03-14 21:40:52,645 [main] INFO ebanking - Entered Password
+2022-03-14 21:40:56,745 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 21:41:08,538 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 21:41:08,539 [main] INFO ebanking - Validation started.....
+2022-03-14 21:41:08,579 [main] INFO ebanking - Customer Added Successfully
+2022-03-14 23:46:14,491 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:46:15,595 [main] INFO ebanking - Entered User Name
+2022-03-14 23:46:15,710 [main] INFO ebanking - Entered Password
+2022-03-14 23:46:16,602 [main] INFO ebanking - Login test passed
+2022-03-14 23:46:23,639 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:46:23,776 [main] INFO ebanking - Entered Username
+2022-03-14 23:46:24,232 [main] INFO ebanking - Entered Password
+2022-03-14 23:46:28,233 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 23:46:41,926 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 23:46:41,926 [main] INFO ebanking - Validation started.....
+2022-03-14 23:48:40,406 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:48:40,595 [main] INFO ebanking - Entered User Name
+2022-03-14 23:48:40,962 [main] INFO ebanking - Entered Password
+2022-03-14 23:48:41,798 [main] INFO ebanking - Login test passed
+2022-03-14 23:48:48,492 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:48:48,661 [main] INFO ebanking - Entered Username
+2022-03-14 23:48:49,054 [main] INFO ebanking - Entered Password
+2022-03-14 23:48:53,020 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 23:49:05,597 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 23:49:05,598 [main] INFO ebanking - Validation started.....
+2022-03-14 23:49:05,626 [main] INFO ebanking - Customer Added Successfully
+2022-03-14 23:53:54,752 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:53:55,053 [main] INFO ebanking - Entered User Name
+2022-03-14 23:53:55,180 [main] INFO ebanking - Entered Password
+2022-03-14 23:53:56,515 [main] INFO ebanking - Login test passed
+2022-03-14 23:54:03,067 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-14 23:54:03,208 [main] INFO ebanking - Entered Username
+2022-03-14 23:54:03,325 [main] INFO ebanking - Entered Password
+2022-03-14 23:54:07,208 [main] INFO ebanking - Entering... Customer Details.....
+2022-03-14 23:54:19,244 [main] INFO ebanking - Entered ... Customer Details....
+2022-03-14 23:54:19,245 [main] INFO ebanking - Validation started.....
+2022-03-15 12:26:43,322 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-15 12:26:44,177 [main] INFO ebanking - Entered User Name
+2022-03-15 12:26:44,252 [main] INFO ebanking - Entered Password
+2022-03-15 12:26:45,262 [main] INFO ebanking - Login test passed
+2022-03-15 12:26:53,395 [main] INFO ebanking - URL is opened in chrome browser.
+2022-03-15 12:26:53,487 [main] INFO ebanking - Entered Username
+2022-03-15 12:26:53,564 [main] INFO ebanking - Entered Password
+2022-03-15 12:26:57,540 [main] INFO ebanking - Entering... Customer Details.....
